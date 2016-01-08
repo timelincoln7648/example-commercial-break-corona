@@ -50,7 +50,7 @@ Using Commercial Break with Corona is easier than ever now that Corona is part o
 1. Install Corona Simulator 
 2. Download/clone this repo 
 3. Open it in corona simulator
-4. Press "Build"
+4. Build
 
 ##API Reference
 
